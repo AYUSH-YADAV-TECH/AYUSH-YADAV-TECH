@@ -1,15 +1,58 @@
-## Hi there 👋
+# Hi 👋, I'm Ayush Yadav
 
-**AYUSH-YADAV-TECH/AYUSH-YADAV-TECH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring **Full Stack Developer** passionate about building web applications and learning modern technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 About Me
+
+* 🌱 Currently learning **SQL and Full Stack Development**
+* 💻 I work with **C, C++, Java, JavaScript**
+* 🌐 Interested in **Web Development**
+* 📚 Constantly improving my **problem solving and programming skills**
+* 🎯 Goal: Become a **Professional Full Stack Developer**
+
+---
+
+## 🛠️ Languages and Tools
+
+* C
+* C++
+* Java
+* JavaScript
+* HTML
+* CSS
+* Bootstrap
+* Git
+* GitHub
+* SQL (Currently Learning)
+
+---
+
+## 📚 Currently Learning
+
+* SQL (Database Management)
+* Backend Development
+* Advanced JavaScript
+* Full Stack Development
+
+---
+
+## 🌐 Connect With Me
+
+* GitHub: https://github.com/AYUSH-YADAV-TECH
+* LinkedIn: [www.linkedin.com/in/ayush-yadav-7b34893b3](http://www.linkedin.com/in/ayush-yadav-7b34893b3)
+
+---
+
+## 📈 Goals for 2026
+
+* Learn **Full Stack Development**
+* Build **real-world projects**
+* Contribute to **open source**
+* Strengthen **DSA and problem solving**
+
+---
+
+⭐ *Always learning, always building.*
 

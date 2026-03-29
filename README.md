@@ -65,8 +65,8 @@ Motto       : "Always Learning, Always Building ⭐"
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AYUSH-YADAV-TECH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AYUSH-YADAV-TECH&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AYUSH-YADAV-TECH&theme=tokyonight&hide_border=true" />
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSH-YADAV-TECH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
@@ -79,7 +79,7 @@ Motto       : "Always Learning, Always Building ⭐"
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AYUSH-YADAV-TECH&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AYUSH-YADAV-TECH&theme=tokyonight&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
